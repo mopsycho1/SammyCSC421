@@ -1,0 +1,64 @@
+*{
+    font-family: 'Poppins',sans-serif;
+}
+.first{
+    background: linear-gradient(0deg, #00000084, #00000084), url(../images/maldives\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sunset{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.497), rgba(0, 0, 0, 0.284), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053)),url(../images/blue-villa-beautiful-sea-hotel.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.universe{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.497), rgba(0, 0, 0, 0.284), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053)), url(../images/roman\ view.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.mountain{
+    background:linear-gradient(to top, rgba(0, 0, 0, 0.497), rgba(0, 0, 0, 0.284), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053)), url(../images/mountain\ view.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.t-with{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.497), rgba(0, 0, 0, 0.284), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053), rgba(0, 0, 0, 0.053)),url(../images/Paris.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.floating-card{
+    position: absolute;
+    width: 25em;
+    height: 19em;
+    background: rgb(6, 190, 251);
+    color: black;
+    right: 7%;
+    top: 5%;
+    border-radius: .35rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.floating-card h1{
+    margin: 1.9rem 0 1rem;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.floating-card p{
+    width: 90%;
+    letter-spacing: .6px;
+    line-height: 1.5rem;
+    font-size: .8rem;
+    font-weight: 30000;
+}
